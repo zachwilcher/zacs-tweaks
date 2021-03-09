@@ -1,0 +1,9 @@
+{
+	"name": "zacs-tweaks",
+	"version": "0.0.1",
+	"title": "Zac's Tweaks",
+	"author": "YourTypicalZac",
+	"factorio_version": "1.1",
+	"dependencies": ["base", "? bobinserters >= 1.0.0"],
+	"description": "Tweaks mods to be more compatible with others and provides some useful settings."
+}
