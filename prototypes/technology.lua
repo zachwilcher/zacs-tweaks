@@ -1,4 +1,4 @@
-if (settings.startup["lessinserters-remove-long-handed-inserter"].value == true) then
+if (settings.startup["zacs-tweaks-remove-long-handed-inserter"].value == true) then
 	-- array of technologies to remove long handed inserter recipe unlock modifier from
 	local technologies = { data.raw.technology["automation"] }
 
