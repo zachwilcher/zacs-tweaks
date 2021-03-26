@@ -1,9 +1,12 @@
 {
 	"name": "zacs-tweaks",
-	"version": "0.0.1",
+	"version": "0.1.2",
 	"title": "Zac's Tweaks",
 	"author": "YourTypicalZac",
 	"factorio_version": "1.1",
-	"dependencies": ["base", "? bobinserters >= 1.0.0", "? aai-programmable-vehicles >= 0.7.9", "? aai-programmable-structures >= 0.7.3", "? spidertron-extended >= 0.3.6"],
-	"description": "Tweaks mods to be more compatible with others and provides some useful settings."
+	"dependencies": ["base", "? bobinserters >= 1.0.0", "? aai-programmable-vehicles >= 0.7.9", "? aai-programmable-structures >= 0.7.3", "? spidertron-extended >= 0.3.6", "(?) space-exploration"],
+	"description": "Provides settings to get free circuit wire, and remove the long handed inserter recipe. Also fixes an issue with spidertron-extended  having unnecessary varient with aai-programmable vehicles. Also moves aai-programmable structures to schall's circuit tab."
+        
+        
+        
 }
