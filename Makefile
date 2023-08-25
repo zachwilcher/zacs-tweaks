@@ -4,8 +4,6 @@ PACKAGE_NAME= $(MODNAME)_$(VERSION)
 FACTORIO_DIR= $(HOME)/.factorio
 
 
-
-
 .PHONY: clean install package uninstall setup
 
 setup: 
